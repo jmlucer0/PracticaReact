@@ -1,0 +1,57 @@
+[
+    {
+      "titulo": "Oblivion (2012)",
+      "calificacion": "8.1",
+      "director": "Joss Whedon",
+      "actores": "Robert Downey Jr.,Chris Evans, Chris Hemsworth",
+      "fecha": "Release: 1 May 2015",
+      "duracion": "2h 40min.",
+      "img": "images/uploads/mv1.jpg",
+      "descipcion":
+        "Earth's mightiest heroes must come together and learn to fight as a team if they are to stop the mischievous Loki and his alien  army from enslaving humanity..."
+    },
+    {
+      "titulo": "Into the Wild (2012)",
+      "calificacion": "6.4",
+      "director": "Joss Whedon",
+      "actores": "Robert Downey Jr., Chris Hemsworth",
+      "fecha": "Release: 1 May 2015",
+      "duracion": "2h 40min.",
+      "img": "images/uploads/mv2.jpg",
+      "descipcion":
+        "Earth's mightiest heroes must come together and learn to fight as a team if they are to stop the mischievous Loki and his alien  army from enslaving humanity..."
+    },
+    {
+        "titulo": "Pelicula 1 (2013)",
+        "calificacion": "6.4",
+        "director": "Joss Whedon",
+        "actores": "Robert Downey Jr., Chris Hemsworth",
+        "fecha": "Release: 1 May 2015",
+        "duracion": "2h 40min.",
+        "img": "images/uploads/mv3.jpg",
+        "descipcion":
+          "Earth's mightiest heroes must come together and learn to fight as a team if they are to stop the mischievous Loki and his alien  army from enslaving humanity..."
+      },
+      {
+        "titulo": "Pelicula 2 (2014)",
+        "calificacion": "6.4",
+        "director": "Joss Whedon",
+        "actores": "Robert Downey Jr., Chris Hemsworth",
+        "fecha": "Release: 1 May 2015",
+        "duracion": "2h 40min.",
+        "img": "images/uploads/mv4.jpg",
+        "descipcion":
+          "Earth's mightiest heroes must come together and learn to fight as a team if they are to stop the mischievous Loki and his alien  army from enslaving humanity..."
+      },
+      {
+        "titulo": "Pelicula 3 (2015)",
+        "calificacion": "6.4",
+        "director": "Joss Whedon",
+        "actores": "Robert Downey Jr., Chris Hemsworth",
+        "fecha": "Release: 1 May 2015",
+        "duracion": "2h 40min.",
+        "img": "images/uploads/mv5.jpg",
+        "descipcion":
+          "Earth's mightiest heroes must come together and learn to fight as a team if they are to stop the mischievous Loki and his alien  army from enslaving humanity..."
+      }
+  ]
